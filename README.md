@@ -5,3 +5,5 @@ Speakers:
 - B. Aditya Prakash
 - Alexander Rodríguez
 - Harshavardhan Kamarthi
+
+Website: https://adityalab.cc.gatech.edu/workshops/21-forecasting-f4sg.html
