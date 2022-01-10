@@ -7,4 +7,5 @@ Speakers:
 - Harshavardhan Kamarthi
 
 Website: https://adityalab.cc.gatech.edu/workshops/21-forecasting-f4sg.html
+
 Video: https://www.youtube.com/watch?v=VCiDhRxNxgc
